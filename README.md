@@ -9,3 +9,10 @@ Xem phim chất lượng cao bằng tài khoản Fshare.vn
 ![Alt text](/screenshot/6.PNG?raw=true "6")
 ![Alt text](/screenshot/7.PNG?raw=true "7")
 ![Alt text](/screenshot/8.PNG?raw=true "8")
+
+# Screenshots
+
+|                         |                         |                         |                         |
+|        :---:            |          :---:          |        :---:            |          :---:          |
+| ![](screenshots/1.jpeg) | ![](screenshots/2.jpeg) | ![](screenshots/3.jpeg) | ![](screenshots/4.jpeg) |
+| ![](screenshots/5.jpeg) | ![](screenshots/6.jpeg) | ![](screenshots/7.jpeg) | ![](screenshots/8.jpeg) |
